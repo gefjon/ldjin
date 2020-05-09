@@ -96,3 +96,66 @@
     Don't I know that! What are you gabbing about, anyway? And keep your dirty
     tongue off Ireland, with your sneers about peasants and bogs and hovels!
     #+END_QUOTE
+*** edmund's quiet stubbornness
+    this isn't directly related to ireland, but it seems to connect to the
+    irish-american identity o'neill is constructing.
+    #+BEGIN_QUOTE :location 480
+    JAMIE
+    Besides it's damned rot! I'd like to see anyone influence Edmund more than
+    he wants to be. His quietness fools people into thinking they can do what
+    they like with him. But he's stubborn as hell inside and what he does is
+    what he wants to do, and to hell with anyone else! What I had to do with
+    all the crazy stunts he's pulled in the last few years---working his way
+    all over the map as a sailor and all that stuff. I thought that was a
+    damned fool idea, and I told hi, so. You can't imagine me getting fun out
+    of being on the beach in South America, or living in filthy dives, drinking
+    rotgut, can you? No, thanks! I'll stick to Broadway, and a room with a
+    bath, and bars that serve bonded Bourbon.
+
+    TYRONE
+    You and Broadway! It's made you what you are!
+    (With a touch of pride.)
+    Whatever Edmund's done, he's had the guts to go off on his own, where he
+    couldn't come whining to me the minute he was broke.
+    #+END_QUOTE
+*** starting at the bottom
+    To Jamie, discussing Edmund's job as a reporter for a newspaper.
+    #+BEGIN_QUOTE :location 494
+    TYRONE
+    Yes. He's made a start. You used to talk about wanting to become a
+    newspaper man but you were never willing to start at the bottom. You expected---
+    #+END_QUOTE
+** Mary
+*** confidence as health, nervousness as illness
+    #+BEGIN_QUOTE :location 507
+    TYRONE
+    Yes, this time you can see how strong and sure of herself she is. She's a
+    different woman entirely form the other times. She has control of her
+    nerves---or she had until Edmund got sick. Now you can feel her growing
+    tense and frightened underneath. I wish to God we could keep the truth from
+    her, but we can't if he has to be sent to a sanatorium. What makes it worse
+    is her father died of consumption. She worshiped him and she's never
+    forgotten. Yes, it will be hard for her. But she can do it! She has the
+    will power now! We must help her, Jamie, in every way we can!
+
+    JAMIE (moved.)
+    Of course, Papa.
+    (hesitantly.)
+    Outside of nerves, she seems perfectly all right this morning.
+
+    TYRONE
+    (with hearty confidence now.)
+    Never better. She's full of fun and mischief.
+    #+END_QUOTE
+*** confidence as a constant battle against nervousness
+    #+BEGIN_QUOTE :location 692--705
+    [Edmund] forces a laugh in which [Mary] makes herself join. Then he goes
+    out on the porch and disappears down the steps. Her first reaction is one
+    of relief. She appears to relax. She sinks down in one of the wicker
+    armchairs at rear of table and leans her head back, closing her eyes. But
+    suddenly she grows terribly tense again. Her eyes open and she strains
+    forward, seized by a fit of nervous panic. She begins a desperate battle
+    with herself. Her long fingers, warped and knotted by rheumatism, drum on
+    the arms of the chair, driven by an insistent life of their own, without
+    her consent.
+    #+END_QUOTE
