@@ -1,0 +1,98 @@
+* the play
+** detailed set description
+   characteristic of realism, i suppose, but still worth talking about. 
+*** empty parlor
+    i'm especially intrigued by
+    #+BEGIN_QUOTE :location 117
+    The other [double doorway with portieres] opens on a dark, windowless back
+    parlor, never used except as a passage from living room to dining room.
+    #+END_QUOTE
+    why do the tyrones have this room? why is it never used? why does o'neill
+    include it?
+*** bookshelf
+    #+BEGIN_QUOTE :location 117
+    Against the wall between the doorways is a small bookcase, with a picture
+    of Shakespeare above it, containing works by Balzac, Zola, Stendhal,
+    philosophical and sociological works by Schopenhauer, Nietzsche, Marx,
+    Engels, Kropotkin, Max Stirner, plays by Ibsen, Shaw, Strindberg, poetry by
+    Swinburne, Rossetti, Wilde, Ernest Dowson, Kipling, etc.
+    #+END_QUOTE
+    this is an incredibly detailed description which the audience will
+    certainly never notice.
+    #+BEGIN_QUOTE :location 117--128
+    Farther back is a large, glassed-in bookcase with sets of Dumas, Victor
+    Hugo, Charles Lever, three sets of Shakespeare, The World's Best Literature
+    in fifty large volumes, Hume's History of England, Thiers' History of the
+    Consulate and Empire, Smollett's History of England, Gibbon's Roman Empire
+    and miscellaneous volumes of old plays, poetry, and several histories of
+    Ireland. The astonishing thing about these sets is that all the volumes
+    have the look of being read and reread.
+    #+END_QUOTE
+** tyrone
+*** clothing
+    #+BEGIN_QUOTE :location 154
+    His clothes, assuredly,  do not costume any romantic part. He wears a
+    threadbare, ready-made, grey sack suit and shineless black shoes, a
+    collar-less shirt with a thick white handkerchief knotted loosely around his
+    throat. There is nothing picturesquely careless about this get-up. It is
+    commonplace shabby. He believes in wearing his clothes to the limit of
+    usefulness, is dressed now for gardening, and doesn't give a damn how he looks.
+    #+END_QUOTE
+*** cheapness, substance use
+    #+BEGIN_QUOTE :location 167--180
+    There's nothing like the first after-breakfast cigar, if it's a good one,
+    and this new lot have the right mellow flavor. They're a great bargain,
+    too. I got them dead cheap. It was McGuire put me on to them.
+    #+END_QUOTE
+** irishness
+*** shaughnessy's victory 
+    #+BEGIN_QUOTE :location 318--330
+    TYRONE (Admiringly before he thinks.)
+    The damned old scoundrel! By God, you can't beat him!
+    (He laughs---then stops abruptly and scowls.)
+    The dirty blackguard! He'll get me in serious trouble yet. I hope you told
+    him I'd be mad as hell---
+
+    EDMUND
+    I told him you'd be tickled to death over the great Irish victory, and so
+    you are. Stop faking, Papa.
+    #+END_QUOTE
+*** irish blarney
+    #+BEGIN_QUOTE :location 368
+    MARY (half reassured.) 
+    I really should have new glasses. My eyes are so bad now.
+
+    TYRONE (with Irish blarney.)
+    Your eyes are beautiful, and well you know it.
+    (He giver her a kiss. Her face lights up with a charming, shy
+    embarrassment. Suddenly and startlingly one sees in her face the girl she
+    had once been, not a ghost of the dead, but still a living part of her.)
+    #+END_QUOTE
+*** irish lilt as a sign of mary's happiness, irish hair as health
+    #+BEGIN_QUOTE :location 368
+    MARY
+    (Laughs and an Irish lilt comes into her voice.)
+    Go along with both of you!
+    (Then she speaks with a girlish gravity.)
+    But I did truly have beautiful hair once, didn't I, James?
+
+    TYRONE
+    The most beautiful in the world!
+
+    MARY
+    It was a rare shade of reddish brown and so long it came down below my
+    knees. You ought to remember it too, Jamie. It wasn't until after Edmund
+    was born that I had a single grey hair. Then it began to turn white.
+    (The girlishness fades from her face.)
+    #+END_QUOTE
+*** irish peasants think consumption is fatal
+    #+BEGIN_QUOTE :location 455
+    JAMIE
+    (Stares at his father, ignoring his explanation.)
+    I know it's an Irish peasant idea consumption is fatal. It probably is when
+    you live in a hovel on a bog, but over here, with modern treatment---
+
+    TYRONE
+    Don't I know that! What are you gabbing about, anyway? And keep your dirty
+    tongue off Ireland, with your sneers about peasants and bogs and hovels!
+    #+END_QUOTE
