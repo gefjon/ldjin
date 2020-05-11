@@ -44,6 +44,12 @@
     and this new lot have the right mellow flavor. They're a great bargain,
     too. I got them dead cheap. It was McGuire put me on to them.
     #+END_QUOTE
+*** smoking after meals
+    #+BEGIN_QUOTE :location 997
+    Tyrone lights a cigar and goes to the screen door, starting out. Jamie
+    fills a pipe from a jar on top of the bookcase at rear. He lights it has he
+    goes to look out the window at right.
+    #+END_QUOTE
 ** irishness
 *** shaughnessy's victory 
     #+BEGIN_QUOTE :location 318--330
@@ -125,29 +131,237 @@
     Yes. He's made a start. You used to talk about wanting to become a
     newspaper man but you were never willing to start at the bottom. You expected---
     #+END_QUOTE
-** Mary
-*** confidence as health, nervousness as illness
-    #+BEGIN_QUOTE :location 507
-    TYRONE
-    Yes, this time you can see how strong and sure of herself she is. She's a
-    different woman entirely form the other times. She has control of her
-    nerves---or she had until Edmund got sick. Now you can feel her growing
-    tense and frightened underneath. I wish to God we could keep the truth from
-    her, but we can't if he has to be sent to a sanatorium. What makes it worse
-    is her father died of consumption. She worshiped him and she's never
-    forgotten. Yes, it will be hard for her. But she can do it! She has the
-    will power now! We must help her, Jamie, in every way we can!
-
-    JAMIE (moved.)
-    Of course, Papa.
-    (hesitantly.)
-    Outside of nerves, she seems perfectly all right this morning.
-
-    TYRONE
-    (with hearty confidence now.)
-    Never better. She's full of fun and mischief.
+*** irish features as appealing, irish person as unintelligent
+    #+BEGIN_QUOTE :location 709
+    The second girl, CATHLEEN, enters from the back parlor. She carries a tray
+    on which is a bottle of bonded Bourbon, several whiskey glasses, and a
+    pitcher of ice water. She is a buxom Irish peasant, in her early twenties,
+    with a red-cheeked comely face, black hair and blue eyes---amiable,
+    ignorant, clumsy, and possessed by a dense, well-meaning stupidity. She
+    puts the tray on the table. Edmund pretends to be so absorbed in his book
+    he does not notice her, but she ignores this.
     #+END_QUOTE
-*** confidence as a constant battle against nervousness
+*** reference to irish alcohol problems
+    #+BEGIN_QUOTE :location 721
+    CATHLEEN
+    (Suddenly primly virtuous.)
+    I'd never suggest a man or a woman touch drink, Mister Edmund. Sure didn't
+    it kill an uncle of mine in the old country.
+    (Relenting.)
+    Still, a drop now and then is no harm when you're in low spirits, or have a
+    bad cold.
+    #+END_QUOTE
+*** ireland = song
+    #+BEGIN_QUOTE :location 746
+    JAMIE
+    I made the Old Man look at his watch. I was halfway up the walk when
+    Cathleen burst into song. Our wild Irish lark! She ought to be a train announcer.
+    #+END_QUOTE
+*** starting at the bottom, again
+    #+BEGIN_QUOTE :location 844
+    MARY
+    (Sharply---letting her resentment toward [Jamie] come out.)
+    It's you who should have more respect! Stop sneering at your father! I
+    won't have it! You ought to be proud you're his son! He may have his
+    faults. Who hasn't? But he's worked hard all his life. He made his way up
+    from ignorance and poverty to the top of his profession! Everyone else
+    admires him and you should be the last one to sneer---you, who, thanks to
+    him, have never had to work hard in your life!
+    #+END_QUOTE
+*** implying cathleen is lazy
+    #+BEGIN_QUOTE :location 855--868
+    MARY
+    (With a resentment that has a quality of being automatic and on the surface
+    while inwardly she is indifferent.)
+    Yes, it's very trying, Jamie. You don't know how trying. You don't have to
+    keep house with summer servants who don't care because they know it isn't a
+    permanent position. The really good servants are all with people who have
+    homes and not merely summer places. And your father won't even pay the
+    wages the best summer help ask. So every year I have stupid, lazy
+    greenhorns to deal with.    
+    #+END_QUOTE
+*** catholicism
+    #+BEGIN_QUOTE :location 1085--1097
+    TYRONE
+    Shut up, both of you! There's little choice between the philosophy you
+    learned from Broadway loafers, and the one Edmund got from his
+    books. They're both rotten to the core. You've both flouted the faith you
+    were born and brought up in---the one true faith of the Catholic
+    Church---and your denial has brought you nothing but self-destruction.
+    (His two sons stare at him contemptuously. They forget their quarrel and
+    are as one against him on this issue.)
+
+    EDMUND
+    That's the bunk, Papa!
+
+    JAMIE
+    We don't pretend, at any rate.
+    (Caustically.)
+    I don't notice you've worn any holes in the knees of your pants going to
+    Mass.
+
+    TYRONE
+    It's true I'm a bad Catholic in the observance, God forgive me. But I
+    believe!
+    (Angrily.)
+    And you're a liar! I may not go to church but every night and morning of my
+    life I get on my knees and pray!
+
+    EDMUND
+    (Bitterly.)
+    Did you pray for Mama?
+
+    TYRONE
+    I did. I've prayed to God these many years for her.
+    
+    EDMUND
+    Then Nietzsche must be right.
+    (He quotes from Thus Spake Zarathustra.)
+    "God is dead: of His pity for man hath God died."
+
+    TYRONE
+    (Ignores this.)
+    If your mother had prayed, too--- She hasn't denied her faith, but she's
+    forgotten it, until now there's no strength of the spirit left in her to
+    fight against her curse.
+    #+END_QUOTE
+*** irish bog-trotters, consumption is fatal
+    #+BEGIN_QUOTE :location 1132--1144
+    JAMIE
+    This is Edmund's business. What I'm afraid of is, with your Irish
+    bog-trotter idea that consumption is fatal, you'll figure it would be a
+    waste of money to spend any more than you can help.
+
+    ...
+
+    TYRONE
+    (His rage still smoldering.)
+    I have every hope Edmund will be cured. And keep your dirty tongue off
+    Ireland! You're a fine one to sneer, with the map of it on your face!
+
+    JAMIE
+    Not after I wash my face.
+    (Then before his father can react to this insult to the Old Sod, he adds
+    dryly, shrugging his shoulders.)
+    Well, I've said all I have to say. It's up to you.
+    #+END_QUOTE
+** alcohol
+*** mary's father drank while sick
+    #+BEGIN_QUOTE :location 957
+    MARY
+    ...
+    (Her eyes become fixed on the whiskey glass on the table beside
+    [Edmund]---sharply.)
+    Why is that glass there? Did you take a drink? Oh, how can you be such a
+    fool? Don't you know it's the worst thing?
+    (She turns on Tyrone.)
+    You're to blame, James. How could you let him? Do you want to kill him?
+    Don't you remember my father? He wouldn't stop after he was stricken. He
+    said doctors were fools! He thought, like you, that whiskey is a good
+    tonic!
+    (A look of terror comes into her eyes and she stammers.)
+    But, of course, there's no comparison at all. I don't know why I---Forgive
+    me for scolding you, James. One small drink won't hurt Edmund. It might be
+    good for him, if it gives him an appetite.
+    (She pat's Edmund's cheek playfully, the strange detachment again in her
+    manner. He jerks his head away. She seems not to notice, but she moves
+    instinctively away.)
+    #+END_QUOTE
+*** tyrone drinks to cope
+    #+BEGIN_QUOTE :location 970--982
+    MARY
+    ...
+    (Sharply.)
+    Please stop starting! One would think you were accusing me---
+    (Then pleadingly.)
+    James! You don't understand!
+
+    TYRONE (With dull anger.)
+    I understand that I've been a God-damned fool to believe in you!
+    (He walks away from her to pour himself a big drink.)
+
+    MARY
+    ...
+    (Then accusingly.)
+    Why are you having another drink? You never have more than one before
+    lunch.
+    (Bitterly.)
+    I know what to expect. You will be drunk tonight. Well, it won't be the
+    first time, will it---or the thousandth?
+    #+END_QUOTE
+*** jamie gets a sharp tongue, tyrone holds it well, it's only a problem if it's a problem
+    #+BEGIN_QUOTE :location 1171--1183
+    MARY
+    ...
+    I'm glad Jamie is going uptown. You didn't give him any money, I hope.
+
+    TYRONE
+    I did not.
+
+    MARY
+    He'd only spend it on drink and you know what a vile, poisonous tongue he
+    has when he's drunk. Not that I would mind anything he said tonight, but he
+    always manages to drive you into a rage, especially if you're drunk, too,
+    as you will be.
+
+    TYRONE
+    (Resentfully.)
+    I won't. I never get drunk.
+
+    MARY
+    (Teasing indifferently.)
+    Oh, I'm sure you'll hold it well. You always have. It's hard for a stranger
+    to tell, but after thirty-five years of marriage---
+
+    TYRONE
+    I've never missed a performance in my life. That's the proof!
+    (Then bitterly.)
+    If I did get drunk it is not you who should blame me. No man has ever had a
+    better reason.
+
+    MARY
+    Reason? What reason? You always drink too much when you go to the Club,
+    don't you? Particularly when you meet McGuire. He sees to that. Don't think
+    I'm finding fault, dear. You must do as you please. I won't mind.
+    #+END_QUOTE
+*** dangerous for edmund, the only thing jamie can do
+    this is ironic because the real jamie drank himself to death.
+    #+BEGIN_QUOTE :location 1349
+    MARY
+    I suppose you'll divide that ten dollars your father gave you with
+    Jamie. You always divide with each other, don't you? Like good
+    sports. Well, I know what he'll do with his share. Get drunk someplace
+    where he can be with the only kind of woman he understands or likes.
+    (She turns to him, pleading frightenedly.)
+    Edmund! Promise me you won't drink! It's so dangerous! You know Doctor
+    Hardy told you---
+    #+END_QUOTE
+*** bribing the servants
+    #+BEGIN_QUOTE :location 1413
+    MARY
+    (With a flash of apprehension.)
+    No, don't go, Cathleen. I don't want to be alone, yet.
+    ...
+    Don't worry about Bridget. I'll tell her I kept you with me, and you can
+    take a big drink of whiskey to her when you go. She won't mind then.
+
+    CATHLEEN
+    (Grins---at her ease again.)
+    No, Ma'am. That's the one thing can make her cheerful. She loves the drop.
+
+    MARY
+    Have yourself another drink, if you wish, Cathleen.
+
+    CATHLEEN
+    I don't know if I'd better, Ma'am. I can feel what I've had already.
+    (Reaching for the bottle.)
+    Well, maybe one more drink won't harm.
+    (She pours a drink.)
+    Here's your good health, Ma'am.
+    (She drinks without bothering about a chaser.)
+    #+END_QUOTE
+** confidence as a constant battle against nervousness
+*** early appearance
     #+BEGIN_QUOTE :location 692--705
     [Edmund] forces a laugh in which [Mary] makes herself join. Then he goes
     out on the porch and disappears down the steps. Her first reaction is one
@@ -158,4 +372,89 @@
     with herself. Her long fingers, warped and knotted by rheumatism, drum on
     the arms of the chair, driven by an insistent life of their own, without
     her consent.
+    #+END_QUOTE
+*** heroin as a solution
+    #+BEGIN_QUOTE :locaiton 997
+    Mary is terribly nervous again, as if the strain of sitting through lunch
+    with them had been too much for her. Yet at the same time, in contrast to
+    this, her expression shows more of that strange aloofness which seems to
+    stand apart from her nerves and the anxieties which harry them.
+
+    She is talking as she enters---a stream of words that issues casually, in a
+    routine of family conversation, from her mouth. She appears indifferent to
+    the fact that their thoughts are not on what she is saying any more than
+    her own are. As she talks, she comes to the left of the table and stands,
+    facing front, one hand fumbling with the bosom of her dress, the other
+    playing over the table top.
+    #+END_QUOTE
+** detailed stage direction
+*** edmund reading
+    #+BEGIN_QUOTE :location 709
+    Edmund sits in the armchair at left of table, reading a book. Or rather he
+    is trying to concentrate on it but cannot. He seems to be listening for some
+    sound from upstairs. His manner is nervously apprehensive and he looks more
+    sickly than in the first act.
+    #+END_QUOTE
+*** doped-up mary
+    #+BEGIN_QUOTE :location 806--832
+    Mary enters from the front parlor. At first one notices no change except
+    that she appears to be less nervous, to be more as she was when we first
+    saw her after breakfast, but then one becomes aware that her eyes are
+    brighter, and there is a peculiar detachment in her voice and manner, as if
+    she were a little withdrawn from her words and actions.
+
+    ...
+
+    She kisses [Edmund]. He stops coughing and gives her a quick apprehensive
+    glance, but if his suspicions are aroused her tenderness makes him renounce
+    them and he believes what he wants to believe for the moment. On the other
+    hand, Jamie knows after one probing look at her that his suspicions are
+    justified. His eyes fall to stare at the floor, his face sets in an
+    expression of embittered, defensive cynicism. Mary goes on, half sitting on
+    the arm of Edmund's char, her arm around him, so her face is above and
+    behind his and he cannot look into her eyes.
+
+    ...
+
+    He pats her hand on his shoulder. Jamie gives him a strange, almost
+    contemptuous glance, wondering if his brother can really mean this. Edmund
+    does not notice but his mother does.
+    #+END_QUOTE
+*** tyrone realizes
+    #+BEGIN_QUOTE :location 943
+    MARY
+    ...
+    (With increasing excitement.)
+    Oh, I'm so sick and tired of pretending this is a home! You won't help me!
+    You won't put yourself out the least bit! You don't know how to act in a
+    home! You don't really want one! You never have wanted one---never since
+    the day we were married! You should have remained a bachelor and lived in
+    second-rate hotels and entertained your friends in barrooms!
+    (She adds strangely, as if she were now talking aloud to herself rather
+    than to Tyrone.)
+    Then nothing would ever have happened.
+    (They stare at her. Tyrone knows now. He suddenly looks a tired, bitterly
+    sad old man. Edmund glances at his father and sees that he knows, but he
+    still cannot help trying to warn his mother.)
+
+    EDMUND
+    Mama! Stop talking. Why don't we go in to lunch.
+    #+END_QUOTE
+*** edmund realizes
+    #+BEGIN_QUOTE :location 957
+    JAMIE
+    ...
+    (He comes around in back of his father, not looking at his mother, and
+    grabs Edmund's shoulder.)
+    Come on, Kid. Let's put on the feed bag.
+    (Edmund gets up, keeping his eyes averted from his mother. They pass her,
+    heading for the back parlor.)
+    #+END_QUOTE
+*** tyrone gets used to it
+    #+BEGIN_QUOTE :location 997
+    Mary is the first to enter from the back parlor. Her husband follows. He is
+    not with her as he was in the similar entrance after breakfast at the
+    opening of Act One. He avoids touching her or looking at her. There is
+    condemnation in his face, mingled now with the beginning of an old weary,
+    helpless resignation.
     #+END_QUOTE
