@@ -50,6 +50,18 @@
     fills a pipe from a jar on top of the bookcase at rear. He lights it has he
     goes to look out the window at right.
     #+END_QUOTE
+** comparing the children
+*** edmund is the good one; jamie is jealous
+    #+BEGIN_QUOTE :location 1554--1568
+    MARY
+    ...
+    I'm afraid Jamie has been lost to us for a long time, dear.
+    (Her face hardens.)
+    But we mustn't allow him to drag Edmund down with him, as he'd like to
+    do. He's jealous because Edmund has always been the baby---just as he used
+    to be of Eugene. He'll never be content until he makes Edmund as hopeless a
+    failure as he is.
+    #+END_QUOTE
 ** irishness
 *** shaughnessy's victory 
     #+BEGIN_QUOTE :location 318--330
@@ -245,6 +257,57 @@
     dryly, shrugging his shoulders.)
     Well, I've said all I have to say. It's up to you.
     #+END_QUOTE
+*** tyrone's people were ignorant and poverty-stricken; drink as distraction and as control
+    #+BEGIN_QUOTE :location 1593
+    MARY
+    ...
+    Please don't think I blame your father, Edmund. He didn't know any
+    better. He never went to school after he was ten. His people were the most
+    ignorant kind of poverty-stricken Irish. I'm sure they honestly believed
+    that whiskey is the healthiest medicine for a child who is sick or
+    frightened.
+    (Tyrone is about to burst out in angry defense of his family but Edmund
+    intervenes.)
+
+    EDMUND (Sharply.)
+    Papa!
+    (Changing the subject.)
+    Are we going to have this drink, or aren't we?
+
+    TYRONE
+    (Controlling himself---dully.)
+    You're right. I'm a fool to take notice.
+    (He picks up his glass listlessly.)
+    Drink hearty, lad.
+    (Edmund drinks but Tyrone remains staring at the glass in his hand. Edmund
+    at once realizes how much the whiskey has been watered. He frowns, glancing
+    from the bottle to his mother---starts to say something but stops.)
+    #+END_QUOTE
+*** homesick for ireland; die in the homeland
+    #+BEGIN_QUOTE :location 1684--1697
+    MARY
+    ...
+    Your father is a strange man, Edmund. ... His father deserted his mother
+    and their six children a year or so after they came to America. He told
+    them he had a premonition he would die soon, and he was homesick for
+    Ireland, and wanted to go back there to die. So he went and he did die.
+    #+END_QUOTE
+*** mary's remembered ideal father; values of different drinks
+    #+BEGIN_QUOTE :location 1978
+    TYRONE
+    ...
+    As I've told you before, you must take her memories with a grain of
+    salt. Her wonderful home was ordinary enough. Her father wasn't the great,
+    generous, noble Irish gentleman she makes out. He was a nice enough man,
+    good company and a good talker. I liked him and he liked me. He was
+    prosperous enough, too, in his wholesale grocery business, an able man. But
+    he had his weakness. She condemns my drinking but she forgets his. It's
+    true he never touched a drop till he was forty, but after that he made up
+    for lost time. He became a steady champagne drinker, the worse kind. That
+    was his grand pose, to drink only champagne. Well, it finished him quick---
+    that and the consumption---
+    (He stops with a guilt glance at [Edmund].)
+    #+END_QUOTE
 ** alcohol
 *** mary's father drank while sick
     #+BEGIN_QUOTE :location 957
@@ -360,6 +423,401 @@
     Here's your good health, Ma'am.
     (She drinks without bothering about a chaser.)
     #+END_QUOTE
+*** quiets tempers
+    #+BEGIN_QUOTE :location 1516
+    CATHLEEN
+    (Fighting tipsy drowsiness---sentimentally.)
+    He's a fine gentleman and you're a lucky woman.
+    (Then, fidgeting.)
+    Can I take the drink to Bridget, Ma'am? It must be near dinnertime and I
+    ought to be in the kitchen helping her. If she don't get something to quiet
+    her temper, she'll be after me with the cleaver.
+    #+END_QUOTE
+*** tyrone holds it well
+    #+BEGIN_QUOTE :location 1542--1554
+    Tyrone comes in through the front parlor. Edmund is behind him. Tyrone has
+    had a lot to drink but beyond a slightly glazed look in his eyes and a
+    trace of blur in his speech, he does not show it. Edmund has also had more
+    than a few drinks without much apparent effect, except that his sunken
+    cheeks are flushed and his eyes look bright and feverish.
+    #+END_QUOTE
+*** jamie is the bad one because of alcohol
+    #+BEGIN_QUOTE :location 1580--1593
+    MARY
+    (As if she hadn't heard---sadly again.)
+    Who would have thought Jamie would grow up to disgrace us. You remember,
+    James, for years after he went to boarding school, we received such glowing
+    reports. Everyone liked him. All his teachers told us what a fine brain he
+    had, and how easily he learned his lessons. Even after he began to drink
+    and they had to expel him, they wrote us how sorry they were, because he
+    was so likable and such a brilliant student. They predicted a wonderful
+    future for him if he would only learn to take life seriously.
+    (She pauses---then adds with a strange, sad detachment.)
+    It's such a pity. Poor Jamie! It's hard to understand---
+    (Abruptly a change comes over her. Her face hardens and she stares at her
+    husband with accusing hostility.)
+    No, it isn't at all. You brought him up to be a boozer. Since he first
+    opened his eyes, he's seen you drinking. Always a bottle on the bureau in
+    the cheap hotel rooms! And if he had a nightmare when he was little, or a
+    stomach-ache, your remedy was to give him a tea-spoonful of whiskey to
+    quiet him.
+
+    TYRONE (Stung.)
+    So I'm to blame because that lazy hulk has made a drunken loafer of
+    himself? Is that what I came home to listen to? I might have known! When
+    you have the poison in you, you want to blame everyone but yourself!
+
+    EDMUND
+    ...
+    (Then, resentfully.)
+    Anyway it's true. You did the same thing with me. I can remember that
+    teaspoonful of booze every time I woke up with a nightmare.
+    #+END_QUOTE
+*** never would have married you; tyrone doesn't remember
+    #+BEGIN_QUOTE :location 1618
+    MARY
+    ...
+    But I must confess, James, although I couldn't help loving you, I would
+    never have married you if I'd known you drank so much. I remember the first
+    night your barroom friends had to help you up to the door of our hotel
+    room, and knocked and then ran away before I came to the door. We were
+    still on our honeymoon, do you remember?
+
+    TYRONE
+    (With guilty vehemence.)
+    I don't remember! It wasn't on our honeymoon! And I never in my life had to
+    be helped to bed, or missed a performance!
+    #+END_QUOTE
+*** a treat
+    #+BEGIN_QUOTE :location 1671
+    TYRONE
+    ...
+    (With angry disgust.)
+    I hope to God you haven't taken to drink on top of---
+
+    EDMUND
+    Shut up, Papa!
+    (To his mother, without looking at her.)
+    You treated Cathleen and Bridget, isn't that it, Mama?
+
+    MARY
+    (With indifferent casualness.)
+    Yes, of course. They work hard for poor wages. And I'm the housekeeper, I
+    have to keep them from leaving. Besides, I wanted to treat Cathleen because
+    I had her drive uptown with me, and sent her to get my prescription filled.
+    #+END_QUOTE
+*** a real drink as opposed to water; a subject of shame
+    after learning that mary has watered down the whiskey to hide that she gave it to the
+    servants:
+    #+BEGIN_QUOTE :location 1684
+    TYRONE
+    ...
+    (To Edmund.)
+    I'll get a fresh bottle of whiskey, lad, and we'll have a real drink.
+    (He goes through the back parlor.)
+    
+    MARY
+    (With detached amusement.)
+    He'll sneak around to the outside cellar door so the servants won't see
+    him. He's really ashamed of keeping his whiskey padlocked in the
+    cellar.
+    #+END_QUOTE
+*** to cope with mary's denial
+    #+BEGIN_QUOTE :location 1759
+    MARY
+    [Edmund] said he didn't want any dinner. He doesn't seem to have any
+    appetite these days.
+    (Then stubbornly.)
+    But it's just a summer cold.
+    (Tyrone stares at her and shakes his head helplessly and pours himself a
+    big drink and drinks it.)
+    #+END_QUOTE
+*** stealing vs invitation
+    #+BEGIN_QUOTE :LOCATION 1771
+    CATHLEEN
+    ...
+    (Then reading the accusation in [Tyrone's] eye.)
+    Don't be looking at me that way. If I've a drop taken, I didn't steal it. I
+    was invited.
+    #+END_QUOTE
+*** scenery: as a marker for their hopelessness
+    #+BEGIN_QUOTE :location 1794
+    The whiskey bottle on the tray is three-quarters empty. There is a fresh
+    full bottle on the table, which he has brought from the cellar so there
+    will be an ample reserve at hand. He is drunk and shows it by the owlish,
+    deliberate manner in which he peers at each card to make certain of its
+    identity, and then plays it as if he wasn't certain of his aim. His eyes
+    have a misted, oily look and his mouth is slack. But despite all the
+    whiskey in him, he has not escaped, and he looks as he appeared at the
+    close of the preceding act, a sad defeated old man, possessed by hopeless
+    resignation.
+    #+END_QUOTE
+*** as wastefulness
+    During a discussion about Tyrone's desire to keep the lights out to save
+    money:
+    #+BEGIN_QUOTE :location 1806--1818
+    EDMUND (Angrily.)
+    ...
+    I damned near busted my knee on the hat stand.
+
+    TYRONE
+    The light from here shows in the hall. You could see your way well enough
+    if you were sober.
+    
+    EDMUND
+    If I was sober? I like that!
+    #+END_QUOTE
+*** causing anger
+    #+BEGIN_QUOTE
+    TYRONE
+    ...
+    Forgive me, lad. I forgot--- You shouldn't goad me into losing my temper.
+
+    EDMUND
+    (Ashamed himself now.)
+    Forget it, Papa. I apologize, too. I had no right being nasty about
+    nothing. I am a bit soused, I guess.
+    #+END_QUOTE
+*** as camaraderie, forgetfulness, and as reinforcing itself
+    #+BEGIN_QUOTE :location 1856
+    TYRONE (Placatingly.)
+    All right, all right, I'll stop. God knows, I don't like the subject
+    either. Will you join me in a drink?
+
+    EDMUND
+    Ah! Now you're talking!
+
+    TYRONE
+    (Passes the bottle to him---mechanically.)
+    I'm wrong to treat you. You've had enough already.
+
+    EDMUND
+    (Pouring a big drink---a bit drunkenly.)
+    Enough is not as good as a feast.
+    (He hands back the bottle.)
+
+    TYRONE
+    It's too much in your condition.
+
+    EDMUND
+    Forget my condition!
+    (He raises his glass.)
+    Here's how.
+
+    TYRONE
+    Drink hearty.
+    (They drink.)
+    #+END_QUOTE
+*** as forgetfulness, yet again
+    #+BEGIN_QUOTE :location 1893
+    EDMUND
+    ...
+    We are such stuff as manure is made on, so let's drink up and forget
+    it. That's more my idea.
+
+    TYRONE (Disgustedly.)
+    Ach! Keep such sentiments to yourself. I shouldn't have given you that
+    drink.
+
+    EDMUND
+    It did pack a wallop, all right. On you, too.
+    (He grins with affectionate teasing.)
+    Even if you've never missed a performance!
+    (Aggressively.)
+    Well, what's wrong with being drunk? It's what we're after, isn't it? Let's
+    not kid each other, Papa. Not tonight. We know what we're trying to forget.
+    (Hurriedly.)
+    But let's not talk about it. It's no use now.
+
+    TYRONE (Dully.)
+    No. All we can do is try to be resigned---again.
+
+    EDMUND
+    Or be so drunk you can forget.
+    (He recites, and recites well, with bitter, ironical passion, the Symons'
+    translation of Baudelaire's prose poem.)
+    "Be always drunken. Nothing else matters: that is the only question. If you
+    would not feel the horrible burden of Time weighing on your shoulders and
+    crushing you to the earth, be drunken continually.
+
+    Drunken with what? With wine, with poetry, or with virtue, as you will. But
+    be drunken.
+
+    And if sometimes, on the stairs of a palace, or on the green side of a
+    ditch, or in the dreary solitude of your own room, you should awaken and
+    the drunkenness be half or wholly slipped away from you, ask of the wind,
+    or of the wave, or of the star, or of the bird, or of the clock, or
+    whatever sighs, or rocks, or sings, or speaks, ask what hour it is; and the
+    wind, wave, star, bird, clock, will answer you: 'It is the hour to be
+    drunken! Be drunken, if you would not be martyred slaves of Time; be
+    drunken continually! With wine, with poetry, or with virtue, as you will.'"
+    #+END_QUOTE
+*** a good man's failing
+    #+BEGIN_QUOTE :location 1954
+    TYRONE
+    ...
+    When I've got three good sets of Shakespeare there (he nods at the large
+    bookcase) you could read.
+
+    EDMUND (Provocatively.)
+    They say he was a souse, too.
+
+    TYRONE
+    They lie! I don't doubt he liked his glass---it's a good man's
+    failing---but he knew how to drink so it didn't poison his brain with
+    morbidness and filthy.
+    #+END_QUOTE
+*** forget it!
+    #+BEGIN_QUOTE
+    TYRONE
+    ...
+    (Then he starts as he hears a sound from upstairs---with dread.)
+    Did you hear? She's moving around. I was hoping she'd gone to sleep.
+
+    EDMUND
+    Forget it! How about another drink?
+    ...
+    Well, here's how.
+
+    TYRONE (Mechanically.)
+    Drink hearty, lad.
+    #+END_QUOTE
+*** a bracer
+    #+BEGIN_QUOTE :location 2117
+    TYRONE
+    ...
+    ([Edmund] looks sick and weak. His father stares at him frightenedly.)
+    You look weak, lad. You'd better take a bracer.
+
+    EDMUND
+    (Grabs the bottle and pours his glass brimfull---weakly.)
+    Thanks.
+    (He gulps down the whiskey.)
+
+    TYRONE
+    (Pours himself a big drink, which empties the bottle, and drinks it.)
+    #+END_QUOTE
+*** makes tyrone generous
+    #+BEGIN_QUOTE :location 2117
+    TYRONE
+    ...
+    (He goes on dully, without resentment.)
+    A stinking old miser. Well, maybe you're right. Maybe I can't help being,
+    although all my life since I had anything I've thrown money over the bar to
+    buy drinks for everyone in the house, or loaned money to sponges I knew
+    would never pay it back---
+    (With a loose-mouthed sneer of self-contempt.)
+    But, of course, that was in barrooms, when I was full of whiskey. I can't
+    feel that way about it when I'm sober in my home.
+    #+END_QUOTE
+*** as an excuse for depression, and as preventing it
+    #+BEGIN_QUOTE :location 2130
+    TYRONE
+    ...
+    But it was a game of romance and adventure to you. It was play.
+
+    EDMUND
+    (Dully sarcastic.)
+    Yes, particularly the time I tried to commit suicide at Jimmie the
+    Priest's, and almost did.
+
+    TYRONE
+    You weren't in your right mind.. No son of mine would ever--- You were
+    drunk.
+
+    EDMUND
+    I was stone cold sober. That was the trouble. I'd stopped to think too
+    long.
+    #+END_QUOTE
+*** deliberately giving way, hiding
+    #+BEGIN_QUOTE :location 2221
+    EDMUND
+    For Christ's sake, Papa, forget it!
+    (He reaches out and pours a drink. Tyrone starts to protest, then gives it
+    up. Edmund drinks. He puts down the glass. His expression changes. When he
+    speaks it is as if he were deliberately giving way to drunkenness and
+    seeking to hide behind a maudlin manner.)
+    #+END_QUOTE
+*** drunk in other ways
+    While reminiscing about his time as a sailor
+    #+BEGIN_QUOTE :location 2221
+    EDMUND
+    ...
+    I became drunk with the beauty and singing rhythm of it, and for a moment I
+    lost myself---actually lost my life. I was set free! I dissolved in the
+    sea, became white sails and flying spray, became beauty and rhythm.
+    #+END_QUOTE
+*** jamie is super duper drunk
+    this is the character who irl drank himself to death.
+    #+BEGIN_QUOTE :location 2247
+    TYRONE
+    ...
+    Get [Jamie] to bed, Edmund. I'll go out on the porch. He has a tongue like
+    an adder when he's drunk. I'd only lose my temper.
+    (He goes out the door to the side porch as the front door in the hall bangs
+    shut behind Jamie. Edmund watches with amusement Jamie's wavering progress
+    through the front parlor. Jamie comes in. He is very drunk and woozy on his
+    legs. His eyes are glassy, his face bloated, his speech blurred, his mouth
+    slack like his father's, a leer on his lips.)
+
+    JAMIE
+    (Swaying and blinking in the doorway---in a loud voice.)
+    What ho! What ho!
+    #+END_QUOTE
+*** jamie's desire to sink
+    #+BEGIN_QUOTE :location 2271
+    ([Jamie] slops a big drink into a glass.)
+
+    EDMUND
+    You're stinking now. That will knock you stiff.
+
+    JAMIE
+    Wisdom from the mouth of babes. Can the wise stuff, Kid. You're still wet
+    behind the ears.
+    (He lowers himself into a chair, holding the drink carefully aloft.)
+
+    EDMUND
+    All right. Pass out if you want to.
+
+    JAMIE
+    Can't, that's trouble. Had enough to sink a ship, but can't sink. Well,
+    here's hoping.
+    (He drinks.)
+    #+END_QUOTE
+*** again as an excuse for depression
+    #+BEGIN_QUOTE :location 2373
+    JAMIE
+    ...
+    (He begins to sob, and the horrible part of his weeping is that it appears
+    sober, not the maudlin tears of drunkenness.)
+    #+END_QUOTE
+*** as a truth serum, and a glorified disease
+    #+BEGIN_QUOTE :location 2413--2425
+    JAMIE
+    ...
+    Listen, Kid, you'll be going away. May not get another chance to talk. Or
+    might not be drunk enough to tell you the truth. So got to tell you
+    now. Something I should have told you long ago---for your own good.
+    (He pauses---struggling with himself. Edmund stares, impressed and
+    uneasy. Jamie blurts out.)
+    Not drunken bull, but "in vino veritas" stuff. You better take it
+    seriously. Want to warn you---against me. Mama and Papa are right. I've
+    been rotten bad influence. And worst of it is, I did it on purpose.
+    ...
+    Or part of me did. A big part. That part that's been dead so long. That
+    hates life. My putting you wise so you'd learn from my mistakes. Believed
+    that myself at times, but it's a fake. Made my mistakes look good. Made
+    getting drunk romantic. Made whores fascinating vampires instead of poor,
+    stupid, diseased slobs they really are.
+    #+END_QUOTE
+** metatheatricality
+   #+BEGIN_QUOTE :location 2284--2296
+   JAMIE
+   ...
+   (With contemptuous hatred.)
+   What a bastard to have for a father! Christ, if you put him in a book, no
+   one would believe it!
+   #+END_QUOTE
 ** confidence as a constant battle against nervousness
 *** early appearance
     #+BEGIN_QUOTE :location 692--705
@@ -457,4 +915,57 @@
     opening of Act One. He avoids touching her or looking at her. There is
     condemnation in his face, mingled now with the beginning of an old weary,
     helpless resignation.
+    #+END_QUOTE
+** catholicism
+*** prayer as lying to god
+    #+BEGIN_QUOTE :location 1530--1542
+    MARY (Bitterly.)
+    You're a sentimental fool. What is so wonderful about that first meeting
+    between a silly romantic schoolgirl and a matinee idol? You were much
+    happier before you knew he existed, in the Convent when you used to pray to
+    the Blessed Virgin.
+    (Longingly.)
+    If only I could find the faith I lost, so I could pray again!
+    (She pauses---then begins to recite the Hail Mary in a flay, empty tone.)
+    "Hail, Mary, full of grace! The Lord is with Thee; blessed art Thou among
+    women."
+    (Sneeringly.)
+    You expect the Blessed Virgin to be fooled by a lying dope fiend reciting
+    words! You can't hide from her!
+    #+END_QUOTE
+*** as a reason not to kill onesself
+    #+BEGIN_QUOTE :location 1747
+    MARY
+    (Vaguely.)
+    I must go upstairs. I haven't taken enough.
+    (She pauses---then longingly.)
+    I hope, sometime, without meaning it, I will take an overdoes. I neverppp
+    could do it deliberately. The Blessed Virgin would never forgive me, then.
+    #+END_QUOTE
+*** shakespeare was an irish catholic
+    (he wasn't)
+    #+BEGIN_QUOTE :location 1818--1831
+    EDMUND
+    (Sits down opposite his father---contemptuously.)
+    Yes, facts don't mean a thing, do they? What you want to believe, that's
+    the only truth!
+    (Derisively.)
+    Shakespeare was an Irish Catholic, for example.
+
+    TYRONE
+    (Stubbornly.)
+    So he was. The proof is in his plays.
+    
+    EDMUND
+    Well he wasn't, and there's no proof of it in his plays, except to you!
+    (Jeeringly.)
+    The Duke of Wellington, there was another good Irish Catholic!
+
+    TYRONE
+    I never said he was a good one. He was a renegade but a Catholic just the
+    same.
+
+    EDMUND
+    Well, he wasn't. You just want to believe that no one but an Irish Catholic
+    general could beat Napoleon.
     #+END_QUOTE
