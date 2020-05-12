@@ -1,0 +1,80 @@
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+
+\documentclass[letterpaper, 12pt]{article}
+\usepackage{dialogue}
+\usepackage[strict, autopunct]{csquotes}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\usepackage[en-US]{datetime2}
+
+\newcommand{\ldjin}{\textit{Long Day's Journey Into Night}}
+\newcommand{\oneill}{O'Neill}
+
+\usepackage{titling}
+\title{???}
+\author{Phoebe Goldman}
+\date{\DTMDate{2020-05-13}}
+
+\newcommand{\theprof}{Professor Charlotte Farrell}
+\newcommand{\theclass}{History of Drama and Theater 2}
+
+\newcommand{\mlatitle}{\noindent\theauthor{}\hspace*{2cm}
+\\\noindent\theprof{}\hspace*{2cm}
+\\\noindent\theclass{}\hspace*{2cm}
+\\\noindent\thedate{}\hspace*{2cm}
+\begin{center}
+  \thetitle{}
+\end{center}}
+
+\usepackage[margin=1in, headheight=14.5pt]{geometry}
+
+\usepackage{fancyhdr}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhf{}
+\cfoot{\thepage}
+\rhead{\shorttitle}
+\lhead{\theauthor}
+\pagestyle{fancy}
+
+\usepackage{sectsty}
+\allsectionsfont{\normalsize\mdseries}
+
+\usepackage{setspace}
+\doublespacing{}
+
+\usepackage{hyperref}
+
+\usepackage[
+style=authortitle-terse,
+backend=biber,
+idemtracker=true,
+ibidtracker=true,
+]{biblatex}
+
+\usepackage{attrib}
+
+\usepackage{ragged2e}
+\setlength\RaggedRightParindent{48pt}
+
+% suppresses pp. in citations
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+
+\addbibresource{bib.bib}
+
+\begin{document}
+\RaggedRight
+\thispagestyle{plain}
+
+\mlatitle{}
+
+When I was young, maybe 12 or 13, I saw a production of Eugene \oneill{}'s
+\ldjin{} at the Guthrie Theater.
+
+\printbibliography{}
+\end{document}
